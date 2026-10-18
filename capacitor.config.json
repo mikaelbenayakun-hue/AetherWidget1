@@ -1,0 +1,12 @@
+{
+  "appId": "com.aether.videowidget",
+  "appName": "AetherWidget",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#09090b",
+    "allowMixedContent": true
+  }
+}
